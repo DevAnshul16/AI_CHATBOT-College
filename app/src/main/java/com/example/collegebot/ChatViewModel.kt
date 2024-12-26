@@ -1,22 +1,15 @@
 package com.example.collegebot
 
 import android.app.Application
-import android.os.Build
-import androidx.annotation.RequiresApi
-import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.collegebot.data.ChatDatabase
 import com.google.ai.client.generativeai.GenerativeModel
 import com.google.ai.client.generativeai.type.content
 import kotlinx.coroutines.launch
-import java.time.LocalDateTime
-import java.time.LocalTime
-import java.time.ZoneId
-import java.time.format.DateTimeFormatter
-import java.util.Locale
 import kotlin.math.max
 import kotlin.math.min
+import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
 
@@ -29,7 +22,7 @@ class ChatViewModel(application: Application) : AndroidViewModel(application) {
 
     // Add a state to track if messages are being shown
     private val _showMessages = mutableStateOf(false)
-    val showMessages = _showMessages as State<Boolean>
+    val showMessages: State<Boolean> = _showMessages
 
     init {
         loadMessages()
@@ -113,137 +106,49 @@ class ChatViewModel(application: Application) : AndroidViewModel(application) {
         return bestMatch?.let { Pair(it, bestSimilarity) }
     }
 
-    @RequiresApi(Build.VERSION_CODES.O)
-    private fun getCurrentDateTime(): String {
-        val indianZone = ZoneId.of("Asia/Kolkata")
-        val current = LocalDateTime.now(indianZone)
-        val formatter = DateTimeFormatter.ofPattern("EEEE, MMMM d, yyyy", Locale.ENGLISH)
-        return current.format(formatter)
-    }
-
-    @RequiresApi(Build.VERSION_CODES.O)
-    private fun getCurrentTime(): String {
-        val indianZone = ZoneId.of("Asia/Kolkata")
-        val current = LocalTime.now(indianZone)
-        // Using 12-hour format with AM/PM
-        val formatter = DateTimeFormatter.ofPattern("hh:mm a", Locale.ENGLISH)
-        return current.format(formatter)
-    }
-
-    private fun isTimeRelatedQuery(query: String): Boolean {
-        val directTimeQueries = setOf(
-            "what time is it",
-            "what's the time",
-            "current time",
-            "tell me the time",
-            "time now",
-            "ist time",
-            "indian time"
-        )
-
-        val directDateQueries = setOf(
-            "what date is it",
-            "what's the date",
-            "what day is it",
-            "what's today",
-            "what day is today",
-            "tell me today's date",
-            "current date",
-            "today's date in india",
-            "indian date"
-        )
-
-        val normalizedQuery = query.lowercase().trim()
-        
-        if (directTimeQueries.any { normalizedQuery.contains(it) }) {
-            return true
-        }
-        
-        if (directDateQueries.any { normalizedQuery.contains(it) }) {
-            return true
-        }
-
-        val timeIndicators = setOf(
-            "right now", 
-            "at this moment", 
-            "currently",
-            "ist",
-            "indian standard time"
-        )
-        val hasTimeIndicator = timeIndicators.any { normalizedQuery.contains(it) }
-        
-        val isDirectQuestion = normalizedQuery.matches(
-            Regex("^(what|tell me|show|give me)\\s+(is|the)\\s+(current\\s+)?(time|date|day)(\\s+today|now|right now)?\\??$")
-        )
-
-        return isDirectQuestion || hasTimeIndicator
-    }
-
-    @RequiresApi(Build.VERSION_CODES.O)
     fun sendMessage(question: String) {
         viewModelScope.launch {
             try {
                 _messageList.add(MessageModel(question, "user"))
                 _messageList.add(MessageModel("Typing...", "model", isTyping = true))
 
+                // Handle other queries
+                val bestMatch = findBestMatchingQuery(question)
                 when {
-                    isTimeRelatedQuery(question.lowercase()) -> {
+                    bestMatch != null && bestMatch.second > 0.7 -> {
                         _messageList.removeLast()
-                        val response = when {
-                            question.lowercase().contains("time") -> 
-                                "Current time in India (IST) is ${getCurrentTime()}"
-                            else -> "Today in India is ${getCurrentDateTime()}"
-                        }
-                        _messageList.add(MessageModel(response, "model"))
+                        val customAnswer = customQueries[bestMatch.first]
+                        _messageList.add(MessageModel(customAnswer ?: "I don't understand the question.", "model"))
                     }
 
-                    // Rest of your existing code for handling other queries
                     else -> {
-                        val bestMatch = findBestMatchingQuery(question)
-                        when {
-                            bestMatch != null && bestMatch.second > 0.7 -> {
-                                _messageList.removeLast()
-                                val customAnswer = customQueries[bestMatch.first]
-                                _messageList.add(MessageModel(customAnswer ?: "I don't understand the question.", "model"))
-                            }
-
-                            else -> {
-                                val chat = generativeModel.startChat(
-                                    history = _messageList.map {
-                                        content(it.role) { text(it.message) }
-                                    }.toList()
-                                )
-                                
-                                // Add current date/time to context
-                                val constrainedQuestion = """
-                                    Context: You are GCET Connect, a chatbot for Galgotias College of Engineering and Technology, Greater Noida.
-                                    Current Date/Time: ${getCurrentDateTime()}
-                                    
-                                    Rules:
-                                    1. For college-specific questions, provide accurate, helpful information
-                                    2. For general academic queries, provide constructive guidance
-                                    3. For non-academic but relevant queries, give appropriate responses
-                                    4. For inappropriate, explicit, or harmful content, respond with "I cannot assist with such queries"
-                                    5. Keep responses professional and educational
-                                    6. If unsure, suggest visiting relevant department/website
-                                    7. For personal issues, recommend student counseling center
-                                    
-                                    Additional Context:
-                                    - Located in Knowledge Park II, Greater Noida
-                                    - NBA Accredited Institution
-                                    - Affiliated to AKTU
-                                    - Focus on technical and professional education
-                                    
-                                    User Question: $question
-                                    
-                                    Please provide a helpful response following these rules.
-                                """.trimIndent()
-                                
-                                _messageList.removeLast()
-                                val response = chat.sendMessage(constrainedQuestion)
-                                _messageList.add(MessageModel(response.text.toString(), "model"))
-                            }
-                        }
+                        val chat = generativeModel.startChat(
+                            history = _messageList.map {
+                                content(it.role) { text(it.message) }
+                            }.toList()
+                        )
+                        
+                        // Prepare the question for the generative model
+                        val constrainedQuestion = """
+                            Context: You are GCET Connect, a chatbot for Galgotias College of Engineering and Technology, Greater Noida.
+                            
+                            Rules:
+                            1. For college-specific questions, provide accurate, helpful information
+                            2. For general academic queries, provide constructive guidance
+                            3. For non-academic but relevant queries, give appropriate responses
+                            4. For inappropriate, explicit, or harmful content, respond with "I cannot assist with such queries"
+                            5. Keep responses professional and educational
+                            6. If unsure, suggest visiting relevant department/website
+                            7. For personal issues, recommend student counseling center
+                            
+                            User Question: $question
+                            
+                            Please provide a helpful response following these rules.
+                        """.trimIndent()
+                        
+                        _messageList.removeLast()
+                        val response = chat.sendMessage(constrainedQuestion)
+                        _messageList.add(MessageModel(response.text.toString(), "model"))
                     }
                 }
 
