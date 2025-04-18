@@ -3,5 +3,5 @@ package com.example.collegebot
 
 object Constants {
 
-    val apiKey = "AIzaSyBtJMT659YBy55sDjRGvekJdZlyyqy9TOQ"
+    val apiKey = "AIzaSyCQsK4LhpSuq_Dr4UGQosymf2MqI2jvu1c"
 }
