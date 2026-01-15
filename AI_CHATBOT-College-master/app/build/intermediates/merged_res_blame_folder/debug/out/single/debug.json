@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/raw_splash_animation.json.flat",
+        "source": "com.example.collegebot.app-main-6:/raw/splash_animation.json"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/drawable_user_avatar.png.flat",
+        "source": "com.example.collegebot.app-main-6:/drawable/user_avatar.png"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/raw_chat_animation.json.flat",
+        "source": "com.example.collegebot.app-main-6:/raw/chat_animation.json"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/drawable_bot_avatar.png.flat",
+        "source": "com.example.collegebot.app-main-6:/drawable/bot_avatar.png"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/drawable_gcet_logo.png.flat",
+        "source": "com.example.collegebot.app-main-6:/drawable/gcet_logo.png"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/drawable_baseline_chat_bubble_24.xml.flat",
+        "source": "com.example.collegebot.app-main-6:/drawable/baseline_chat_bubble_24.xml"
+    },
+    {
+        "merged": "com.example.collegebot.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.collegebot.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

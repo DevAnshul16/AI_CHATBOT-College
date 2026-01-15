@@ -1,0 +1,415 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.airbnb.android:lottie-compose:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ede6833cf439bc4fd92529d21397c548\transformed\lottie-compose-6.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\62de6657b973744e03122c8cf998bf90\transformed\generativeai-0.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3cf66729a52c3d7f452f0083aa932e1d\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3d12b252369958b2fe74fa775c776aa0\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.airbnb.android:lottie:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\b3238a7956cc2de2ae0baad2a9a2240e\transformed\lottie-6.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ec5cae8c751927014fbb0236af151cf5\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d9feef89a1a39246a6ad9ec41969c54e\transformed\material3-1.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.4] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\07c00105a04a451ba90b9519d0353466\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\209a569f0fd9704a7d52fa69528795cc\transformed\navigation-common-2.7.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\56c22296a56f32d812936cdbe6ab2452\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eda2609e7938eea9d6c2da67ba5bdb70\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0067c8509901e2510b8b3f2da59ca67e\transformed\navigation-runtime-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3f9cfd744d97ea9047bc49d1cf172f00\transformed\navigation-compose-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c3fb5e03ea97755ab0e513cdf2f52965\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\670284d55bd185937a85971cb3df0b59\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0cb2084e0ec29d09c01596204e96d469\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\61a58562589e95014aa78f98f62e63f9\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a3d799578b86c2d6274dd8c7bea1b621\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c2c371ec70de7d5ba4154565b9c68e\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\63c7ecbb0a4aad58ca1f654fc9131a27\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b9f8ac839a7589cdc495ab5b1d0896c\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\cbb3ac11f39dc617776abaab7c87765e\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\50f85661c077798e720813f162554545\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\80799ff4694c408cf4334ea00e1f383d\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\5de4d5a8cfd3d8112238af4c6218d54a\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.animation:animation-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ed857c1232c9c64ca8b1050085b0c0b4\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8d134130249bf692cf833babab8b785c\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3a5363e8c9480cd57bfd8541fba2a7b6\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\563f2c63b88e3e7797c0f7ca59b1b077\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eb46590e49e15dc207802e2a1aeee5f7\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\2e54d69cec74cafdb824095b8facd93a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\be4f3a2b1bd3b32ffff181966228a760\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\fe4f0df470e6299ceb8f6a8e823cb7f3\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b35898fb6382712a78bfcf158e532ca\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ba451175139aafcb7c32cc7abe088b28\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a8257c398b937e1bb017b76574a40953\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e59b16303a7783cd106bcefe65282b67\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b52bfb929aab71b7c89dff064f14cd9\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\44cc60af7cfcdd93e28f4dd9556eb8eb\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ab1ed21c4e944be1f7bdccccee8452d3\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\f9ccdfd596fcaba3fa4bc81f040b7edb\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\5bfde3dc9dbb2f20fccd3459d9a09363\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8fe6d02a6d296bddb6c3e0c7bd83d85f\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3b6fb9387a7e29a5dd2b9e23fa234a4e\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19f48bf6ea81e6e631f78b2cb7b5bed4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ee5554490531f020794ff7a35481a683\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eb513c364db4ea9ec05844fb4cf434b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3db6a01c2cc552ae3748232b507d9c01\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0c8a4064a441a59c0db8e7ff72359b9c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9dcdef97b6ed7ab3a5aef9eaf3b3b307\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d7654154d8f441f5da612bb2a6fa0b4d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\49f88bb36fc8336478bd1cfd0eafa65e\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3a121fa4740f3faadeecf2f0a09e9272\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4b7cd64d76f5e24b8d01c6d2aab6cd0a\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\f3b968ed47d0016f3e511369235235ec\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0bde0db2e9722e99db84379a5bc1f5d4\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0a409e34f5c9fc194c86f6e00ceffb68\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4be33efd3a819bc888b20173791a12d2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\13838f9fe6bf3219c35e98e3200717f4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\539aafb59a4658ed60e353e8df788637\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e05b34d42025f29e9b2b27b8cf280145\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d465fd6e9979932920259468a6b18ce0\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:8:5-29:19
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [com.airbnb.android:lottie:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\b3238a7956cc2de2ae0baad2a9a2240e\transformed\lottie-6.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\b3238a7956cc2de2ae0baad2a9a2240e\transformed\lottie-6.3.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4be33efd3a819bc888b20173791a12d2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4be33efd3a819bc888b20173791a12d2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:13:9-37
+	android:fullBackupContent
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:16:9-48
+	android:dataExtractionRules
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:10:9-65
+activity#com.example.collegebot.MainActivity
+ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:21:13-41
+	android:exported
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:22:13-52
+	android:name
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+MERGED from [com.airbnb.android:lottie-compose:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ede6833cf439bc4fd92529d21397c548\transformed\lottie-compose-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie-compose:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ede6833cf439bc4fd92529d21397c548\transformed\lottie-compose-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\62de6657b973744e03122c8cf998bf90\transformed\generativeai-0.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ai.client.generativeai:generativeai:0.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\62de6657b973744e03122c8cf998bf90\transformed\generativeai-0.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3cf66729a52c3d7f452f0083aa932e1d\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3cf66729a52c3d7f452f0083aa932e1d\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3d12b252369958b2fe74fa775c776aa0\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3d12b252369958b2fe74fa775c776aa0\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\b3238a7956cc2de2ae0baad2a9a2240e\transformed\lottie-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\b3238a7956cc2de2ae0baad2a9a2240e\transformed\lottie-6.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ec5cae8c751927014fbb0236af151cf5\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ec5cae8c751927014fbb0236af151cf5\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d9feef89a1a39246a6ad9ec41969c54e\transformed\material3-1.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d9feef89a1a39246a6ad9ec41969c54e\transformed\material3-1.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\07c00105a04a451ba90b9519d0353466\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\07c00105a04a451ba90b9519d0353466\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\209a569f0fd9704a7d52fa69528795cc\transformed\navigation-common-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\209a569f0fd9704a7d52fa69528795cc\transformed\navigation-common-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\56c22296a56f32d812936cdbe6ab2452\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\56c22296a56f32d812936cdbe6ab2452\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eda2609e7938eea9d6c2da67ba5bdb70\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eda2609e7938eea9d6c2da67ba5bdb70\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0067c8509901e2510b8b3f2da59ca67e\transformed\navigation-runtime-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0067c8509901e2510b8b3f2da59ca67e\transformed\navigation-runtime-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3f9cfd744d97ea9047bc49d1cf172f00\transformed\navigation-compose-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.6] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3f9cfd744d97ea9047bc49d1cf172f00\transformed\navigation-compose-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c3fb5e03ea97755ab0e513cdf2f52965\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c3fb5e03ea97755ab0e513cdf2f52965\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\670284d55bd185937a85971cb3df0b59\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\670284d55bd185937a85971cb3df0b59\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0cb2084e0ec29d09c01596204e96d469\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0cb2084e0ec29d09c01596204e96d469\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\61a58562589e95014aa78f98f62e63f9\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\61a58562589e95014aa78f98f62e63f9\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a3d799578b86c2d6274dd8c7bea1b621\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a3d799578b86c2d6274dd8c7bea1b621\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c2c371ec70de7d5ba4154565b9c68e\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c2c371ec70de7d5ba4154565b9c68e\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\63c7ecbb0a4aad58ca1f654fc9131a27\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\63c7ecbb0a4aad58ca1f654fc9131a27\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b9f8ac839a7589cdc495ab5b1d0896c\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b9f8ac839a7589cdc495ab5b1d0896c\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\cbb3ac11f39dc617776abaab7c87765e\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\cbb3ac11f39dc617776abaab7c87765e\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\50f85661c077798e720813f162554545\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\50f85661c077798e720813f162554545\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\80799ff4694c408cf4334ea00e1f383d\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\80799ff4694c408cf4334ea00e1f383d\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\5de4d5a8cfd3d8112238af4c6218d54a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\5de4d5a8cfd3d8112238af4c6218d54a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ed857c1232c9c64ca8b1050085b0c0b4\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ed857c1232c9c64ca8b1050085b0c0b4\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8d134130249bf692cf833babab8b785c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8d134130249bf692cf833babab8b785c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3a5363e8c9480cd57bfd8541fba2a7b6\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3a5363e8c9480cd57bfd8541fba2a7b6\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\563f2c63b88e3e7797c0f7ca59b1b077\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\563f2c63b88e3e7797c0f7ca59b1b077\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eb46590e49e15dc207802e2a1aeee5f7\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eb46590e49e15dc207802e2a1aeee5f7\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\2e54d69cec74cafdb824095b8facd93a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\2e54d69cec74cafdb824095b8facd93a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\be4f3a2b1bd3b32ffff181966228a760\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\be4f3a2b1bd3b32ffff181966228a760\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\fe4f0df470e6299ceb8f6a8e823cb7f3\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\fe4f0df470e6299ceb8f6a8e823cb7f3\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b35898fb6382712a78bfcf158e532ca\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b35898fb6382712a78bfcf158e532ca\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ba451175139aafcb7c32cc7abe088b28\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ba451175139aafcb7c32cc7abe088b28\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a8257c398b937e1bb017b76574a40953\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a8257c398b937e1bb017b76574a40953\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e59b16303a7783cd106bcefe65282b67\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e59b16303a7783cd106bcefe65282b67\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b52bfb929aab71b7c89dff064f14cd9\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8b52bfb929aab71b7c89dff064f14cd9\transformed\lifecycle-viewmodel-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\44cc60af7cfcdd93e28f4dd9556eb8eb\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\44cc60af7cfcdd93e28f4dd9556eb8eb\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ab1ed21c4e944be1f7bdccccee8452d3\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ab1ed21c4e944be1f7bdccccee8452d3\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\f9ccdfd596fcaba3fa4bc81f040b7edb\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\f9ccdfd596fcaba3fa4bc81f040b7edb\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\5bfde3dc9dbb2f20fccd3459d9a09363\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\5bfde3dc9dbb2f20fccd3459d9a09363\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8fe6d02a6d296bddb6c3e0c7bd83d85f\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\8fe6d02a6d296bddb6c3e0c7bd83d85f\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3b6fb9387a7e29a5dd2b9e23fa234a4e\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3b6fb9387a7e29a5dd2b9e23fa234a4e\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19f48bf6ea81e6e631f78b2cb7b5bed4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19f48bf6ea81e6e631f78b2cb7b5bed4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ee5554490531f020794ff7a35481a683\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ee5554490531f020794ff7a35481a683\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eb513c364db4ea9ec05844fb4cf434b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\eb513c364db4ea9ec05844fb4cf434b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3db6a01c2cc552ae3748232b507d9c01\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3db6a01c2cc552ae3748232b507d9c01\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0c8a4064a441a59c0db8e7ff72359b9c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0c8a4064a441a59c0db8e7ff72359b9c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9dcdef97b6ed7ab3a5aef9eaf3b3b307\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9dcdef97b6ed7ab3a5aef9eaf3b3b307\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d7654154d8f441f5da612bb2a6fa0b4d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d7654154d8f441f5da612bb2a6fa0b4d\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\49f88bb36fc8336478bd1cfd0eafa65e\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\49f88bb36fc8336478bd1cfd0eafa65e\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3a121fa4740f3faadeecf2f0a09e9272\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\3a121fa4740f3faadeecf2f0a09e9272\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4b7cd64d76f5e24b8d01c6d2aab6cd0a\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4b7cd64d76f5e24b8d01c6d2aab6cd0a\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\f3b968ed47d0016f3e511369235235ec\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\f3b968ed47d0016f3e511369235235ec\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0bde0db2e9722e99db84379a5bc1f5d4\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0bde0db2e9722e99db84379a5bc1f5d4\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0a409e34f5c9fc194c86f6e00ceffb68\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\0a409e34f5c9fc194c86f6e00ceffb68\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4be33efd3a819bc888b20173791a12d2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\4be33efd3a819bc888b20173791a12d2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\13838f9fe6bf3219c35e98e3200717f4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\13838f9fe6bf3219c35e98e3200717f4\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\539aafb59a4658ed60e353e8df788637\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\539aafb59a4658ed60e353e8df788637\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e05b34d42025f29e9b2b27b8cf280145\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e05b34d42025f29e9b2b27b8cf280145\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d465fd6e9979932920259468a6b18ce0\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\d465fd6e9979932920259468a6b18ce0\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.ai.client.generativeai:generativeai:0.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\62de6657b973744e03122c8cf998bf90\transformed\generativeai-0.1.1\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from [com.google.ai.client.generativeai:generativeai:0.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\62de6657b973744e03122c8cf998bf90\transformed\generativeai-0.1.1\AndroidManifest.xml:22:22-64
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\ce0f9b48edeeb7481d2083c4a9a36159\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\9b3066211ac9e69c6fbb6f22be78b14b\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\e7c903bb0ac439ec996d89657e91e0c8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\dfa1e9c90e040ee87147beda208362fa\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\a439a5e5ab48657c9225d4507b16b2a6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\534639cc237f621a46f67cf3a3f78c3a\transformed\ui-test-manifest-1.6.0\AndroidManifest.xml:24:13-63
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.collegebot.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.collegebot.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\c546368789ee3058171349eefc939b92\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] E:\college documents\APP_PROJ\AI_CHATBOT-College-master\AI_CHATBOT-College-master\caches\8.9\transforms\19d5f29d328589b637e4191353816ccb\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

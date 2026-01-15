@@ -79,4 +79,7 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+    implementation("androidx.appcompat:appcompat:1.7.1") // Use latest stable version
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0") // Use latest stable
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")// Optional but recommended
 }

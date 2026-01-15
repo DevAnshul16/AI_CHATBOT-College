@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_chat_bubble_24
+drawable bot_avatar
+drawable gcet_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable user_avatar
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+raw chat_animation
+raw splash_animation
+string app_name
+style Theme.CollegeBot
+xml backup_rules
+xml data_extraction_rules
